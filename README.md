@@ -1,3 +1,3 @@
 # Travel Destinations
 
-This is a simple app to keep track of destinations or nice places I'd like to visit.
+This is a simple app to keep track of destinations / nice places I'd like to visit.
